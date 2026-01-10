@@ -1,3 +1,1 @@
-path,error
-..\data\raw\chest_xray\train\NORMAL\.DS_Store,cannot identify image file '..\\data\\raw\\chest_xray\\train\\NORMAL\\.DS_Store'
-..\data\raw\chest_xray\train\PNEUMONIA\.DS_Store,cannot identify image file '..\\data\\raw\\chest_xray\\train\\PNEUMONIA\\.DS_Store'
+
